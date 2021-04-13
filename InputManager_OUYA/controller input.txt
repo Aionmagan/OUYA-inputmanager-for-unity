@@ -1,0 +1,21 @@
+0 = joystick button 0 
+A = joystick button 1
+Y = joystick button 3
+U = joystick button 2
+
+RB = joystick button 5
+RT = Axes 8th
+R3 = joystick button 9
+
+R analog Y = Axes 4
+R analog X = axes 3 
+
+Dpad X = Axes 5
+Dpad Y = Axes 6
+
+L alanog Y = Axes 2
+L analog X = Axes 1
+
+LB = joystick button 4
+LT = Axes 7
+L3 = joystick button 8
