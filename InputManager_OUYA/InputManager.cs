@@ -64,9 +64,9 @@ namespace OUYA.InputManager
 		}
 
 		public static float DpadVertical()
-        {
+        	{
 			return Input.GetAxis("Dpad_Y");
-        }
+        	}
 		public static bool ButtonDown(Button button)
 		{
 			return Input.GetKeyDown("joystick button " + ((int)button).ToString());
